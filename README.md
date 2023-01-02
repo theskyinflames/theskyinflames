@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about clean architecture patterns
 - 💞️ I’m looking to collaborate on anything related to disrupting tech
 - 📫 Reach me at https://linktr.ee/jaumearus
-- 🎯 Remember: no fun, no party 
+- 🎯 Remember: No fun, no party 
 
 <!---
 theskyinflames/theskyinflames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
